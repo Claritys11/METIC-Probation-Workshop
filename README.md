@@ -99,6 +99,8 @@ Peserta tidak perlu akses write ke repository utama. Semua pekerjaan dilakukan m
 4. Lanjutkan ke [Basic JavaScript](modules/03-basic-javascript/README.md).
 5. Gunakan [Troubleshooting](TROUBLESHOOTING.md) saat mengalami error.
 
+Jika kamu belajar tanpa kelas, ikuti [Panduan Belajar Mandiri](instructors/TEACHING-GUIDE.md) sebagai rute belajar dari awal sampai Pull Request.
+
 ## Meminta Bantuan
 
 Saat mengalami error, jangan hanya mengirim “tidak bisa”. Kirim informasi berikut agar pemateri bisa membantu lebih cepat:
