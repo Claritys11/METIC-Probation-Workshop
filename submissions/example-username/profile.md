@@ -1,7 +1,7 @@
-# Profil Peserta
+Profil Siswa
 
-Nama: Contoh Peserta
-Kelas/Jurusan: X RPL
-Username GitHub: example-username
-Minat teknologi: Website frontend
-Alasan mengikuti MokDev: Ingin belajar membuat website dan bekerja dengan tim.
+**Nama Lengkap:** Contoh Nama Siswa
+**Kelas:** X RPL 1
+**Username GitHub:** contoh-username
+**Kenapa kamu gabung METIC?** Aku penasaran gimana caranya bikin aplikasi/website, dan pengen belajar bareng temen-temen yang sama-sama suka teknologi.
+**Rencana kamu ke depan (di RPL / setelah lulus)?** Aku pengen jadi lebih jago ngoding, ikut lomba, dan kalau bisa magang atau kerja di bidang IT setelah lulus.
