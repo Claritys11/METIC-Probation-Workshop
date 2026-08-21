@@ -1,8 +1,8 @@
 ## Data peserta
 
-- Nama:
-- Username GitHub:
-- Kelas/Jurusan:
+- Nama: Mohamad Kenzie Adinata Kurniawan
+- Username GitHub: Kenzie3910
+- Kelas/Jurusan: X TKJ 2
 
 ## Checklist
 
