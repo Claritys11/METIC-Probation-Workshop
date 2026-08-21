@@ -18,27 +18,27 @@ Fork repository
 
 ## Git dan GitHub
 
-| Istilah | Penjelasan sederhana |
-| --- | --- |
-| Git | Aplikasi di laptop untuk mencatat perubahan file |
-| GitHub | Website untuk menyimpan repository Git secara online dan berkolaborasi |
-| Repository utama | Repository workshop milik penyelenggara |
-| Fork | Salinan repository utama di akun GitHub peserta |
+| Istilah          | Penjelasan sederhana                                                   |
+| ---------------- | ---------------------------------------------------------------------- |
+| Git              | Aplikasi di laptop untuk mencatat perubahan file                       |
+| GitHub           | Website untuk menyimpan repository Git secara online dan berkolaborasi |
+| Repository utama | Repository workshop milik penyelenggara                                |
+| Fork             | Salinan repository utama di akun GitHub peserta                        |
 
 Peserta bekerja melalui fork agar tidak membutuhkan akses write ke repository utama.
 
 ## Konsep Dasar
 
-| Konsep | Arti |
-| --- | --- |
-| Repository | Folder project yang riwayat perubahannya dicatat oleh Git |
-| Working directory | Folder kerja yang sedang kamu edit |
-| Modified file | File yang sudah berubah tetapi belum disimpan sebagai commit |
-| Staging area | Tempat memilih file yang akan masuk commit |
-| Commit | Simpanan perubahan dengan pesan |
-| Branch | Jalur kerja terpisah dari `main` |
-| Push | Mengirim commit dari laptop ke GitHub |
-| Pull Request | Permintaan agar perubahan pada branch peserta diperiksa dan dibandingkan dengan `main` |
+| Konsep            | Arti                                                                                    |
+| ----------------- | --------------------------------------------------------------------------------------- |
+| Repository        | Folder project yang riwayat perubahannya dicatat oleh Git                               |
+| Working directory | Folder kerja yang sedang kamu edit                                                      |
+| Modified file     | File yang sudah berubah tetapi belum disimpan sebagai commit                            |
+| Staging area      | Tempat memilih file yang akan masuk commit                                              |
+| Commit            | Simpanan perubahan dengan pesan                                                         |
+| Branch            | Jalur kerja terpisah dari`main`                                                       |
+| Push              | Mengirim commit dari laptop ke GitHub                                                   |
+| Pull Request      | Permintaan agar perubahan pada branch peserta diperiksa dan dibandingkan dengan`main` |
 
 `main` adalah branch utama yang harus dijaga tetap stabil. Pekerjaan baru dilakukan di branch terpisah:
 
