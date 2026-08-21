@@ -1,7 +1,7 @@
 Profil Siswa
 
-**Nama Lengkap:** Contoh Nama Siswa
-**Kelas:** X RPL 1
-**Username GitHub:** contoh-username
-**Kenapa kamu gabung METIC?** Aku penasaran gimana caranya bikin aplikasi/website, dan pengen belajar bareng temen-temen yang sama-sama suka teknologi.
-**Rencana kamu ke depan (di RPL / setelah lulus)?** Aku pengen jadi lebih jago ngoding, ikut lomba, dan kalau bisa magang atau kerja di bidang IT setelah lulus.
+**Nama Lengkap:** Achmad Yanuar Fairuzzi
+**Kelas:** X ICP TKJ
+**Username GitHub:** vayyyofficial
+**Kenapa kamu gabung METIC?** Ingin lebih mendalami dunia IT khususnya Frontend & Backend, dan karena masuk telkon sebenarnya ingin jurusan RPL tapi masuknya TKJ :C
+**Rencana kamu ke depan (di RPL / setelah lulus)?** Ingin Lebih jago di bidang IT khusus nya Frontend karena sekarang sedang belajar website tapi lebih ke vibecode :D.

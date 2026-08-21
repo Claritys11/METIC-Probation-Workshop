@@ -14,7 +14,7 @@ Fork repository workshop
 -> buat Pull Request menuju branch main repository workshop
 ```
 
-## 1. Fork Repository
+## 1. Fork Repository  
 
 1. Buka repository workshop utama milik penyelenggara di GitHub.
 2. Klik tombol **Fork**.
